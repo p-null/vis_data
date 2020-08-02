@@ -1,351 +1,401 @@
 [
   {
-    "year": "2016",
+    "year": "2006",
+    "value": 2741,
+    "category": "Search Engine"
+  },
+  {
+    "year": "2006",
+    "value": 2310,
+    "category": "Suggested"
+  },
+  {
+    "year": "2006",
+    "value": 1258,
+    "category": "The Followed"
+  },
+  {
+    "year": "2006",
+    "value": 217,
+    "category": "External Shares"
+  },
+  {
+    "year": "2006",
+    "value": 35,
+    "category": "Search"
+  },
+  {
+    "year": "2007",
+    "value": 2845,
+    "category": "Search Engine"
+  },
+  {
+    "year": "2007",
+    "value": 2327,
+    "category": "Suggested"
+  },
+  {
+    "year": "2007",
+    "value": 1289,
+    "category": "The Followed"
+  },
+  {
+    "year": "2007",
+    "value": 226,
+    "category": "External Shares"
+  },
+  {
+    "year": "2007",
+    "value": 46,
+    "category": "Search"
+  },
+  {
+    "year": "2008",
     "value": 2848,
     "category": "Search Engine"
   },
   {
-    "year": "2016",
+    "year": "2008",
     "value": 2445,
     "category": "Suggested"
   },
   {
-    "year": "2016",
+    "year": "2008",
     "value": 1316,
     "category": "The Followed"
   },
   {
-    "year": "2016",
+    "year": "2008",
     "value": 237,
     "category": "External Shares"
   },
   {
-    "year": "2016",
+    "year": "2008",
     "value": 47,
     "category": "Search"
   },
   {
-    "year": "2017",
+    "year": "2009",
     "value": 2832,
     "category": "Search Engine"
   },
   {
-    "year": "2017",
+    "year": "2009",
     "value": 2518,
     "category": "Suggested"
   },
   {
-    "year": "2017",
+    "year": "2009",
     "value": 1342,
     "category": "The Followed"
   },
   {
-    "year": "2017",
+    "year": "2009",
     "value": 252,
     "category": "External Shares"
   },
   {
-    "year": "2017",
+    "year": "2009",
     "value": 49,
     "category": "Search"
   },
   {
-    "year": "2018",
+    "year": "2010",
     "value": 2958,
     "category": "Search Engine"
   },
   {
-    "year": "2018",
+    "year": "2010",
     "value": 2695,
     "category": "Suggested"
   },
   {
-    "year": "2018",
+    "year": "2010",
     "value": 1397,
     "category": "The Followed"
   },
   {
-    "year": "2018",
+    "year": "2010",
     "value": 276,
     "category": "External Shares"
   },
   {
-    "year": "2018",
+    "year": "2010",
     "value": 48,
     "category": "Search"
   },
   {
-    "year": "2019",
+    "year": "2011",
     "value": 3043,
     "category": "Search Engine"
   },
   {
-    "year": "2019",
+    "year": "2011",
     "value": 2906,
     "category": "Suggested"
   },
   {
-    "year": "2019",
+    "year": "2011",
     "value": 1443,
     "category": "The Followed"
   },
   {
-    "year": "2019",
+    "year": "2011",
     "value": 298,
     "category": "External Shares"
   },
   {
-    "year": "2019",
+    "year": "2011",
     "value": 54,
     "category": "Search"
   },
   {
-    "year": "2020",
+    "year": "2012",
     "value": 3068,
     "category": "Search Engine"
   },
   {
-    "year": "2020",
+    "year": "2012",
     "value": 3108,
     "category": "Suggested"
   },
   {
-    "year": "2020",
+    "year": "2012",
     "value": 1485,
     "category": "The Followed"
   },
   {
-    "year": "2020",
+    "year": "2012",
     "value": 320,
     "category": "External Shares"
   },
   {
-    "year": "2020",
+    "year": "2012",
     "value": 60,
     "category": "Search"
   },
   {
-    "year": "2021",
+    "year": "2013",
     "value": 3091,
     "category": "Search Engine"
   },
   {
-    "year": "2021",
+    "year": "2013",
     "value": 3293,
     "category": "Suggested"
   },
   {
-    "year": "2021",
+    "year": "2013",
     "value": 1534,
     "category": "The Followed"
   },
   {
-    "year": "2021",
+    "year": "2013",
     "value": 356,
     "category": "External Shares"
   },
   {
-    "year": "2021",
+    "year": "2013",
     "value": 62,
     "category": "Search"
   },
   {
-    "year": "2022",
+    "year": "2014",
     "value": 3071,
     "category": "Search Engine"
   },
   {
-    "year": "2022",
+    "year": "2014",
     "value": 3422,
     "category": "Suggested"
   },
   {
-    "year": "2022",
+    "year": "2014",
     "value": 1562,
     "category": "The Followed"
   },
   {
-    "year": "2022",
+    "year": "2014",
     "value": 382,
     "category": "External Shares"
   },
   {
-    "year": "2022",
+    "year": "2014",
     "value": 66,
     "category": "Search"
   },
   {
-    "year": "2023",
+    "year": "2015",
     "value": 3103,
     "category": "Search Engine"
   },
   {
-    "year": "2023",
+    "year": "2015",
     "value": 3587,
     "category": "Suggested"
   },
   {
-    "year": "2023",
+    "year": "2015",
     "value": 1630,
     "category": "The Followed"
   },
   {
-    "year": "2023",
+    "year": "2015",
     "value": 388,
     "category": "External Shares"
   },
   {
-    "year": "2023",
+    "year": "2015",
     "value": 69,
     "category": "Search"
   },
   {
-    "year": "2024",
+    "year": "2016",
     "value": 3042,
     "category": "Search Engine"
   },
   {
-    "year": "2024",
+    "year": "2016",
     "value": 3590,
     "category": "Suggested"
   },
   {
-    "year": "2024",
+    "year": "2016",
     "value": 1584,
     "category": "The Followed"
   },
   {
-    "year": "2024",
+    "year": "2016",
     "value": 415,
     "category": "External Shares"
   },
   {
-    "year": "2024",
+    "year": "2016",
     "value": 66,
     "category": "Search"
   },
   {
-    "year": "2025",
+    "year": "2017",
     "value": 3107,
     "category": "Search Engine"
   },
   {
-    "year": "2025",
+    "year": "2017",
     "value": 3812,
     "category": "Suggested"
   },
   {
-    "year": "2025",
+    "year": "2017",
     "value": 1696,
     "category": "The Followed"
   },
   {
-    "year": "2025",
+    "year": "2017",
     "value": 446,
     "category": "External Shares"
   },
   {
-    "year": "2025",
+    "year": "2017",
     "value": 67,
     "category": "Search"
   },
   {
-    "year": "2026",
+    "year": "2018",
     "value": 3134,
     "category": "Search Engine"
   },
   {
-    "year": "2026",
+    "year": "2018",
     "value": 4055,
     "category": "Suggested"
   },
   {
-    "year": "2026",
+    "year": "2018",
     "value": 1756,
     "category": "The Followed"
   },
   {
-    "year": "2026",
+    "year": "2018",
     "value": 494,
     "category": "External Shares"
   },
   {
-    "year": "2026",
+    "year": "2018",
     "value": 64,
     "category": "Search"
   },
   {
-    "year": "2027",
+    "year": "2019",
     "value": 3200,
     "category": "Search Engine"
   },
   {
-    "year": "2027",
+    "year": "2019",
     "value": 4106,
     "category": "Suggested"
   },
   {
-    "year": "2027",
+    "year": "2019",
     "value": 1783,
     "category": "The Followed"
   },
   {
-    "year": "2027",
+    "year": "2019",
     "value": 519,
     "category": "External Shares"
   },
   {
-    "year": "2027",
+    "year": "2019",
     "value": 65,
     "category": "Search"
   },
   {
-    "year": "2028",
+    "year": "2020",
     "value": 3220,
     "category": "Search Engine"
   },
   {
-    "year": "2028",
+    "year": "2020",
     "value": 4126,
     "category": "Suggested"
   },
   {
-    "year": "2028",
+    "year": "2020",
     "value": 1806,
     "category": "The Followed"
   },
   {
-    "year": "2028",
+    "year": "2020",
     "value": 554,
     "category": "External Shares"
   },
   {
-    "year": "2028",
+    "year": "2020",
     "value": 68,
     "category": "Search"
   },
   {
-    "year": "2029",
+    "year": "2021",
     "value": 3280,
     "category": "Search Engine"
   },
   {
-    "year": "2029",
+    "year": "2021",
     "value": 4117,
     "category": "Suggested"
   },
   {
-    "year": "2029",
+    "year": "2021",
     "value": 1823,
     "category": "The Followed"
   },
   {
-    "year": "2029",
+    "year": "2021",
     "value": 568,
     "category": "External Shares"
   },
   {
-    "year": "2029",
+    "year": "2021",
     "value": 68,
     "category": "Search"
   }
